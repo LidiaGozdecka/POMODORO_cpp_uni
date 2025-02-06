@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="POMODOROMain.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22809" topLine="311" />
+		</Cursor>
+		<Folding>
+			<Collapse line="283" />
+			<Collapse line="298" />
+			<Collapse line="314" />
+			<Collapse line="331" />
+			<Collapse line="515" />
+			<Collapse line="534" />
+			<Collapse line="566" />
+			<Collapse line="673" />
+			<Collapse line="694" />
+			<Collapse line="714" />
+			<Collapse line="722" />
+			<Collapse line="742" />
+			<Collapse line="767" />
+			<Collapse line="782" />
+			<Collapse line="789" />
+			<Collapse line="846" />
+			<Collapse line="886" />
+		</Folding>
+	</File>
+	<File name="P.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1313" topLine="51" />
+		</Cursor>
+	</File>
+	<File name="P.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5850" topLine="108" />
+		</Cursor>
+	</File>
+	<File name="POMODOROApp.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="558" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="resource.rc" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="wxsmith\POMODOROdialog.wxs" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4416" topLine="90" />
+		</Cursor>
+	</File>
+	<File name="POMODOROMain.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1383" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="POMODOROApp.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="698" topLine="4" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
